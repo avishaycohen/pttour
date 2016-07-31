@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="locations_names">
+        <item>Baron Monument</item>
+        <item>Godman and rotbard house (rothsheild 62)</item>
+        <item>PIKA house</item>
+        <item>Lomzha Yeshiva</item>
+        <item>House of Avraham Shapira</item>
+        <item>\"Heichal\" Movie theater</item>
+        <item>City Hall</item>
+        <item>the 1921 riot monument</item>
+        <item>Khayim Ozer St.</item>
+        <item>Founders Square</item>
+        <item>the first Well in Petah tiqwa</item>
+        <item>The great Synagogue</item>
+        <item>House of Halvna and Liebniez</item>
+        <item>printing house - \"house of mud\"</item>
+        <item>Baron\'s House of manegment</item>
+        <item>City Market</item>
+    </string-array>
+
+    <string-array name="locations_snippets">
+        <item>A large gate used to commemorate the \"great philanthropist\" who helped the young colony Petah Tikva quite a bit&#44;
+                as in many other colonies Petah Tikva also hit hard times and only the Baron\'s help stopped the colony from disappearing.\nthat
+                is why the Baron is seen throughout the city&#44; in schools&#44; streets&#44; monuments and other facilities.
+        </item>
+        <item>
+            Eclectically designed, this house, which was modeled after one two families had left behind in Poland, is built from silicate bricks brought in from nearby Tel Aviv.  The families also commissioned stone masons from Tel Aviv to build the house.  The construction continued for over a year and a half before the house was finished.  Then both families made their house a home.  After many years, the Rotbart family purchased the house in full from the Godmans.  The architecture stands out as a reminder of the familial homes so many olim left behind.
+        </item>
+        <item>
+            The PICA, Palestine Jewish Colonization Association, School stands at the corner of PICA and Rothschild Sts. in the heart of Petach Tikva.  This school served as Petach Tikva’s main school as the young colony grew.  It is often referred to as “The Baron’s School” and in the 50’s was made into the Institute of Land and Houses for the general region.  Not long after, it was revitalized into a new addition to the Petach Tikva museum.
+        </item>
+        <item>
+            This bright yellow building adds a unique splash of color to an otherwise mundane street.  The Lomza Yeshiva was founded in the 1920’s by Torah students who had made Aliyah from Lomza, Poland.  It is built similar to the style typically found in Poland at that time.  Kept clean and well maintained by students who study there to this day, it continues to serve as a major learning facility for Jewish studies.
+        </item>
+        <item>
+            This landmark is another example of houses built in the old world style, the entrance marked by strong Cupressus trees and the house\'s structure reminiscent of peasant homes.  Today, this house serves at Petach Tikva’s community center.  It once was the residence of one of Petach Tikva’s most famous citizens- Abraham Shapira.  He is best known for heading the defense of Petach Tikva during the 1921 riots and having strong relationships with nearby Arab villages, often helping to avoid bloodshed between Jewish pioneers and their Arab neighbors.  Part of the famous “Hagana’ organization, he lived till the age of 95.  After his death his house was converted into the community center that it is today.
+        </item>
+        <item>
+            This theater brought about tension between the secular and Haredi communities in Petach Tikva when the secular community wanted the theater to run on Shabbat.  The Haredim found this an affront to the sacred nature of Shabbat and fought to have it closed.  A duel demonstration began where each Shabbat Haredim from around the area would walk to the theater and protest, while secular citizens would gather to watch movies.  In the end, an agreement was reached that the theater would stay open on Shabbat, but tickets must be purchased during the weekdays.  Today, the theater is abandoned as it failed to keep up with commercialized cinema centers.
+        </item>
+        <item>
+            Petach Tikva’s city hall, a large courtyard with statues and benches is a center of the community.  Both the cities old and young gather here to enjoy snacks and games.  During Sukkot, the parking lot become a trading place for the Four Species.  In the summer you can see high school students hanging out and selling their used school books to the next generation.  This is a thriving heart of Petach Tikva.
+        </item>
+        <item>
+            Hidden away, here stands the humble monument of a terrible battle between the Jewish and Arab communities in Jaffa.  In May of 1921, the Jewish community of Jaffa was attacked and many were killed.  Among those murdered was the famous writer Yosef Haim Brener.  Just a few days later, on the 5th of May, the Arab communities around Petach Tikva attacked the young colony.  Defense of Petach Tikva was mounted by Abraham Shapira and his lieutenant Avshalom Gissin, who later was one of the four who died in these riots along with Zeev Orlov.  Two main streets in Petach Tikva were named after these men in honor of their memory.
+        </item>
+        <item>
+            This is the main artery of Petach Tikva.  The street is filled with shops that provide goods and services for the citizens here.  The main post office, City Hall, and more have called this street home for many years.  Take time to walk along the West side of the street in order to see historical images and information on how Petach Tikva was created and grew into one of the most populous and prosperous cities in Israel.
+        </item>
+        <item>
+            The true center of the colony, around this square is where the founders of Petach Tikva built their homes in the summer of 1878.  Towards the end of the hill was where the erected the first well, and later the first pharmacy and school.  The center of the hill was smoothed out to create a Threshing Floor, where grain could be processed after harvest.  In 1884, the North side of the square became home to the Lahman Estate and on the West side was the first post office in Petach Tikva from where carts departed to nearby Jaffa.  In 1938, the square became the first public “park” in Petach Tikva.  You can see monuments depicting the founders at the edge of square.  Take a moment to get a better look at these brave pioneers and learn more information about who helped create the city of Petach Tikva.
+        </item>
+        <item>
+            The First Well marks a true beginning to what we now know as Petach Tikva.  It served as a place where the Founders could access clean drinking and bathing water at a comfortable distance from their homes.  Located at the end of the hill of Founders Square, the well served the growing community.
+        </item>
+        <item>
+            Called the “House of Jacob” after Baron Rothschild’s father, building of this synagogue began in 1890 by volunteers with donated resources.  It was completed in 1898.  The architect behind the project was Daniel Lipshitz.  Later additions to the building were the unique 4 clocks.  The focal point being the large clock at the center top which uses Hebrew letters instead of numbers and across the door can be found three other sun clocks.  This Synagogue is still in use today.
+        </item>
+        <item>
+            This two story house at the entrance of Hovevei Zion St was built in the 1920’s and functioned for many years as the offices of the Ben-Ezer Raab brothers, who were popular citrus fruit merchants.  The house was renovated around 1994
+        </item>
+        <item>
+            Called the House of Mud because of its design, this ivy covered house was built from mud in traditional Baghdadian style.  The Iraqi builders used mud bricks with wood and gravel as support during construction,.  The house is used as a printing press for many of the city’s paper needs and the city maintains and preserves the structure of the house to this day.
+        </item>
+        <item>Baron\'s House of manegment</item>
+        <item>
+            The shouk, market, in Petach Tikva is one of the largest in Israel.  It is a unique and colorful place where shoppers can buy everything from freshly baked challah to salted herring to straight from the farm vegetables.  It is comprised of two long main stretches of bustling stalls and merchants.  This is the perfect place to get a sweet treat or a cold beer after getting to know the city\'s history while participating in its present.
+        </item>
+    </string-array>
+
+    <array name="locations_img">
+        <item>@drawable/baron_monument</item>
+        <item>@drawable/godman_and_rotbard_house</item>
+        <item>@drawable/pika_house</item>
+        <item>@drawable/lomzha_yeshiva</item>
+        <item>@drawable/house_of_avraham_shapira</item>
+        <item>@drawable/heichal_movie_theater</item>
+        <item>@drawable/city_hall</item>
+        <item>@drawable/the_1921_riot_monument</item>
+        <item>@drawable/khayim_ozer_st</item>
+        <item>@drawable/founders_square</item>
+        <item>@drawable/the_first_well_in_petah_tiqwa</item>
+        <item>@drawable/the_great_synagogue</item>
+        <item>@drawable/house_of_halvna_and_liebniez</item>
+        <item>@drawable/printing_house</item>
+        <item>@drawable/barons_house_of_manegment</item>
+        <item>@drawable/city_market</item>
+    </array>
+
+    <string-array name="location_urls">
+
+        <item><a href='http://www.rishonim.org.il/petach-tikva/Info/site_show.aspx?id=1026' >Click here for more info about this location</a></item>
+        <item><a href='http://www.rishonim.org.il/petach-tikva/Info/site_show.aspx?id=1026' >Click here for more info about this location</a></item>
+        <item><a href='http://www.rishonim.org.il/petach-tikva/Info/site_show.aspx?id=1026' >Click here for more info about this location</a></item>
+        <item><a href='http://www.rishonim.org.il/petach-tikva/Info/site_show.aspx?id=1026' >Click here for more info about this location</a></item>
+        <item><a href='http://www.rishonim.org.il/petach-tikva/Info/site_show.aspx?id=1026' >Click here for more info about this location</a></item>
+        <item><a href='http://www.rishonim.org.il/petach-tikva/Info/site_show.aspx?id=1026' >Click here for more info about this location</a></item>
+        <item><a href='http://www.rishonim.org.il/petach-tikva/Info/site_show.aspx?id=1026' >Click here for more info about this location</a></item>
+        <item><a href='http://www.rishonim.org.il/petach-tikva/Info/site_show.aspx?id=1026' >Click here for more info about this location</a></item>
+        <item><a href='http://www.rishonim.org.il/petach-tikva/Info/site_show.aspx?id=1026' >Click here for more info about this location</a></item>
+        <item><a href='http://www.rishonim.org.il/petach-tikva/Info/site_show.aspx?id=1026' >Click here for more info about this location</a></item>
+        <item><a href='http://www.rishonim.org.il/petach-tikva/Info/site_show.aspx?id=1026' >Click here for more info about this location</a></item>
+        <item><a href='http://www.rishonim.org.il/petach-tikva/Info/site_show.aspx?id=1026' >Click here for more info about this location</a></item>
+        <item><a href='http://www.rishonim.org.il/petach-tikva/Info/site_show.aspx?id=1026' >Click here for more info about this location</a></item>
+        <item><a href='http://www.rishonim.org.il/petach-tikva/Info/site_show.aspx?id=1026' >Click here for more info about this location</a></item>
+        <item><a href='http://www.rishonim.org.il/petach-tikva/Info/site_show.aspx?id=1026' >Click here for more info about this location</a></item>
+        <item><a href='http://www.rishonim.org.il/petach-tikva/Info/site_show.aspx?id=1026' >Click here for more info about this location</a></item>
+
+    </string-array>
+
+</resources>

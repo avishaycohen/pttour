@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">סיור בפתח תקווה - בעקבות הראשונים</string>
+    <string name="google_maps_key" translatable="false"></string>
+    <string name="title_activity_maps">סיור בפ"ת</string>
+    <string name="About">אודות</string>
+    <string name="appInfo">היי! תודה שהורדת את האפליקציה! מקווה שאתם נהנים מהסיור בעיר המדהימה פתח תקווה!</string>
+    <string name="devInfo">קוראים לי אבישי כהן, ולהערות ושאלות והצעות ניתן לפנות אליי ב:</string>
+    <string name="Center">מרכז</string>
+
+    <string-array name="locations_names">
+        <item>שער הברון</item>
+        <item>בית גודמן ורוטברד (רוטשילד 62)</item>
+        <item>בית פיקא</item>
+        <item>ישיבת לומזה</item>
+        <item>בית אברהם שפירא</item>
+        <item>קולנוע היכל</item>
+        <item>עיריית פת</item>
+        <item>אנדרטה לזכרון חללי מאורעות תרפא</item>
+        <item>רחוב חיים עוזר</item>
+        <item>כיכר המייסדים</item>
+        <item>הבאר הראשונה בפת</item>
+        <item>בית הכנסת הגדול</item>
+        <item>בית חלבנה ולייבניץ</item>
+        <item>בית הדפוס - בית הבוץ</item>
+        <item>בית פקידות הברון</item>
+        <item>שוק העיר</item>
+    </string-array>
+
+    <string-array name="locations_snippets">
+        <item>
+            שער גדול המשמש כאנדרטה להנצחת הברון רוטשילד או בכינויו \"הנדיב הידוע\"&#44; הברון עזר רבות למושבה הצעירה
+            פתח תקווה&#44; כמו למושבות אחרות באותה תקופה&#44; גם פתח תקווה סבלה מקשיים רבים&#44; ועזרתו של הברון הצילה את המושבה.\n
+            בגלל סיבות אלה ניתן למצוא את הברון אדמונד דה - רוטשילד מונצח במושבות רבות&#44; בבתי ספר&#44; רחובות&#44; ומוסדות אחרים
+        </item>
+        <item>
+            זהו בניין יחודי מבחינה ארכיטקטונית&#44; חזיתו נבנתה מאבני סילקט שהובאו במיוחד מתל אביב&#44;
+            הותאמו במיוחד על ידי סתתים מומחים שהגיעו מכל הארץ כדי לבנות את הבית.
+            הקבלן&#44; רוטברד&#44; תכנן את הבית כהעתק של ביתו מפולניה&#44; ומימן את בניית הבית.
+            גודמן בחלקו נתן את השטח עליו נבנה הבית&#44; וביחד שתי המשפחות גרו בבית לאחר שנגמרה הבניה.
+            הבנייה ארכה שנה וחצי&#44; ועד היום הוא משמש (לכאורה) כבית מגורים.
+        </item>
+        <item>
+            בניין פיקא שימש למטרות רבות. היה בתחילה בית הספר של המושבה על שם הברון&#44;
+            ובשנות החמישים עבר הסבה ראשונה ללשכת מקרקעין&#44; ולבסוף לפני מספר שנים הפך לחלק ממוזיאון פתח תקווה
+            ומוצגים בו מיצגים שונים לגבי העיר.
+            למתעניינים&#44; ראשי התיבות פיקא&#44; הינם:
+            Palestine Jewish Coloniztion Association
+        </item>
+        <item>בניין צהוב ובולט ברחוב המנומנם&#44; משמש כישיבה תורנית בה לומדים תלמידים רבים&#44;
+            המבנה נבנה בסגנון פולני האופייני לשנות העשרים&#44; הוא מתוחזק ומשופץ וגם היום לומדים בו תלמידים רבים.
+            הישיבה הייתה ישיבה יוקרתית שהצליחה ליצור לעצמה שם של אליטה&#44; ובנים רבים של משפחות חזקות מהאזור נשלחו ללמוד שם
+        </item>
+        <item>
+            
+        </item>
+        <item>\"Heichal\" Movie theater</item>
+        <item>City Hall</item>
+        <item>the 1921 riot monument</item>
+        <item>Khayim Ozer St.</item>
+        <item>Founders Square</item>
+        <item>the first Well in Petah tiqwa</item>
+        <item>The great Synagogue</item>
+        <item>House of Halvna and Liebniez</item>
+        <item>printing house - \"house of mud\"</item>
+        <item>Baron\'s House of manegment</item>
+        <item>City Market</item>
+    </string-array>
+    
+    
+</resources>
+
+

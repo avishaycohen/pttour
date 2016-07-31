@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="north_coordinates">
+        <item>32.089483</item>
+        <item>32.088805</item>
+        <item>32.086431</item>
+        <item>32.085204</item>
+        <item>32.084938</item>
+        <item>32.086554</item>
+        <item>32.087391</item>
+        <item>32.087582</item>
+        <item>32.087987</item>
+        <item>32.089743</item>
+        <item>32.089344</item>
+        <item>32.089075</item>
+        <item>32.087962</item>
+        <item>32.087566</item>
+        <item>32.087844</item>
+        <item>32.090166</item>
+    </array>
+
+    <array name="east_coordinates">
+        <item>34.88095</item>
+        <item>34.880871</item>
+        <item>34.881796</item>
+        <item>34.88371</item>
+        <item>34.885445</item>
+        <item>34.886906</item>
+        <item>34.887457</item>
+        <item>34.887537</item>
+        <item>34.887127</item>
+        <item>34.885697</item>
+        <item>34.885375</item>
+        <item>34.884646</item>
+        <item>34.882902</item>
+        <item>34.883288</item>
+        <item>34.882317</item>
+        <item>34.881963</item>
+    </array>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Petah Tikva Tour - Follow the Founders</string>
+    <string name="title_activity_maps">PT-Tour</string>
+    <string name="About">About</string>
+    <string name="appInfo">Hi, Thanks for using my app! hope you enjoy it and tell your friends about amazing Petah Tikva!</string>
+    <string name="devInfo">my name is Avishay Cohen, and if you have suggestion or remarks contact me at:</string>
+    <string name="mail">avishay.c@gmail.com</string>
+    <string name="Center">re-center</string>
+
+</resources>
